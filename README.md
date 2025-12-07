@@ -6,3 +6,6 @@ The data in the third assignment are relatively large nc files, so even after ov
 If you need the data for reproduction during grading, you can contact me. 
 Tel: 16696682290
 QQ: 2920789034
+
+PS4:
+Similarly, the data cannot be uploaded due to its large size. You can send me a message when reproducing it
